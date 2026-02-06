@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1762597563 source:c:\users\admin\desktop\c program\lab3-zad2\main.cpp
+	<iostream>
+	<queue>
+
+1762598353 source:c:\users\admin\desktop\c++ projects\lab3\lab3-zad2\main.cpp
+	<iostream>
+	<queue>
+
