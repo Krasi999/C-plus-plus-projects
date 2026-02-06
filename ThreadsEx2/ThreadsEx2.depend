@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1764418428 source:c:\users\admin\desktop\c++ projects\threadsexercises\threadsex2\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<chrono>
+

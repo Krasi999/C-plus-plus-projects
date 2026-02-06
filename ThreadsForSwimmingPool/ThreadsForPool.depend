@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1764250066 source:c:\users\admin\desktop\c++ projects\threadsforpool\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<chrono>
+
