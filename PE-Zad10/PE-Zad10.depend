@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765625911 source:c:\users\admin\desktop\c++ projects\pe - exercises\pe-zad10\main.cpp
+	<iostream>
+	<cstring>
+
